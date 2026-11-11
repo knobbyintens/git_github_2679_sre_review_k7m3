@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-edge-cdn",
+  "display_name": "Edge CDN",
+  "owner_team": "platform",
+  "criticality_tier": "gold",
+  "error_budget_pct": 0.15,
+  "observed_error_rate_pct": 0.12,
+  "latency_slo_p95_ms": 500,
+  "observed_p95_latency_ms": 500,
+  "open_p1_incidents": 0,
+  "monthly_active_users": 2600000
+}

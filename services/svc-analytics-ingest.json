@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-analytics-ingest",
+  "display_name": "Analytics Ingest",
+  "owner_team": "analytics",
+  "criticality_tier": "silver",
+  "error_budget_pct": 0.3,
+  "observed_error_rate_pct": 0.16,
+  "latency_slo_p95_ms": 1800,
+  "observed_p95_latency_ms": 2100,
+  "open_p1_incidents": 1,
+  "monthly_active_users": 150000
+}

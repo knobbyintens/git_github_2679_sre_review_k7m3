@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-payment-orchestrator",
+  "display_name": "Payment Orchestrator",
+  "owner_team": "payments",
+  "criticality_tier": "platinum",
+  "error_budget_pct": 0.05,
+  "observed_error_rate_pct": 0.02,
+  "latency_slo_p95_ms": 1200,
+  "observed_p95_latency_ms": 1400,
+  "open_p1_incidents": 1,
+  "monthly_active_users": 920000
+}

@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-legacy-batch-export",
+  "display_name": "Legacy Batch Export",
+  "owner_team": "analytics",
+  "criticality_tier": "bronze",
+  "error_budget_pct": 0.9,
+  "observed_error_rate_pct": 0.15,
+  "latency_slo_p95_ms": 3600,
+  "observed_p95_latency_ms": 3300,
+  "open_p1_incidents": 3,
+  "monthly_active_users": 45000
+}

@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-catalog-search",
+  "display_name": "Catalog Search",
+  "owner_team": "search",
+  "criticality_tier": "gold",
+  "error_budget_pct": 0.2,
+  "observed_error_rate_pct": 0.2,
+  "latency_slo_p95_ms": 500,
+  "observed_p95_latency_ms": 320,
+  "open_p1_incidents": 0,
+  "monthly_active_users": 610000
+}

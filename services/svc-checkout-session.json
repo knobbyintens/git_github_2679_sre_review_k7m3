@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-checkout-session",
+  "display_name": "Checkout Session",
+  "owner_team": "payments",
+  "criticality_tier": "gold",
+  "error_budget_pct": 0.1,
+  "observed_error_rate_pct": 0.31,
+  "latency_slo_p95_ms": 700,
+  "observed_p95_latency_ms": 690,
+  "open_p1_incidents": 0,
+  "monthly_active_users": 780000
+}

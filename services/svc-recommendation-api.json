@@ -1,0 +1,12 @@
+{
+  "service_id": "svc-recommendation-api",
+  "display_name": "Recommendation API",
+  "owner_team": "search",
+  "criticality_tier": "bronze",
+  "error_budget_pct": 0.6,
+  "observed_error_rate_pct": 0.4,
+  "latency_slo_p95_ms": 900,
+  "observed_p95_latency_ms": 760,
+  "open_p1_incidents": 0,
+  "monthly_active_users": 220000
+}
